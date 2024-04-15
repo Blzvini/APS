@@ -12,6 +12,7 @@ import bucket_sort
 import radix_sort
 import metrics
 
+
 configuracoes = [5, 10, 50, 100, 1000, 10000]
 
 for tamanho in configuracoes:
